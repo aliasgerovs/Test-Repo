@@ -1,7 +1,7 @@
 print()
 print()
 print()
-print()
+print("Salam")
 print()
 print()
 print()
